@@ -47,7 +47,7 @@ Welcome to my personal portfolio website! This is a modern, responsive, and inte
 
 ## 🚀 Live Demo
 
-Visit the live website: [Your GitHub Pages URL]
+Visit the live website: https://austill.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/
 
 ## 📁 Project Structure
 
